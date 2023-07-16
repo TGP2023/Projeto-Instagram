@@ -12,6 +12,10 @@
   <p>-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt= "css3-logo">
   <p>- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
+  <br>
 
+  <p align="center">
   <img src="https://github.com/TGP2023/Projeto-Instagram/blob/master/img/insta1.png">
+    </p>
+  <br>
   <img src="https://github.com/TGP2023/Projeto-Instagram/blob/master/img/insta2.png">
