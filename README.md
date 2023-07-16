@@ -16,6 +16,8 @@
 
   <p align="center">
   <img src="https://github.com/TGP2023/Projeto-Instagram/blob/master/img/insta1.png">
-    </p>
+  </p>
   <br>
+  <p align="center">
   <img src="https://github.com/TGP2023/Projeto-Instagram/blob/master/img/insta2.png">
+  </p>
